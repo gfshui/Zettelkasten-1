@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "f0113df29c867573",
+    "type": "split",
+    "children": [
+      {
+        "id": "632a7132d28a3942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9193e901db0277e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df8cd167f72eb2a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "12eeb24b18b72d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c1278530c948902",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10c89b0e4c187616",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83b4fdd3882c7986",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ab2231fe4f762c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "63fa60c90c64ac29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37cf4d956e839623",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b37ea5f898f8d77f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3773e6d1083ba11e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87fd93a5110bf654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "f9193e901db0277e",
+  "lastOpenFiles": [
+    "daily note/2022-11-10.md",
+    "紀錄想法.md",
+    "炒米粉.md",
+    "失敗.md",
+    "daily note template.md",
+    "Obsidian.md",
+    "每日回顧.md",
+    "卡片盒筆記法/卡片盒筆記法.md",
+    "整理想法也要歸檔.md",
+    "卡片盒筆記法/卡片盒筆記的筆記紀錄方式.md"
+  ]
+}
